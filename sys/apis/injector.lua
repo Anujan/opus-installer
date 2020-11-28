@@ -1,5 +1,5 @@
 local GIT_URL        = 'https://raw.githubusercontent.com'
-local DEFAULT_UPATH  = GIT_URL .. '/kepler155c/opus-installer/master/sys/apis'
+local DEFAULT_UPATH  = GIT_URL .. '/Anujan/opus-installer/master/sys/apis'
 
 local http   = _G.http
 local os     = _G.os
